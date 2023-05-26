@@ -12,13 +12,15 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Zemfira Abitova <alexander.repeta@gmail.com>",
+  "author": "Zemfira Abitova <craftyzema@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "@vimeo/player": "^2.20.1",
+    "modern-normalize": "^1.1.0",
+    "simplelightbox": "^2.14.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
